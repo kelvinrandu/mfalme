@@ -988,6 +988,10 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
+.image-logo{
+  width: 100px;
+  height: 100px;
+}
 
 .card-box-a .img-a,
 .card-box-a .img-b,
